@@ -1,5 +1,10 @@
 # ServiceWorkers
 
+In order to see service workers in action you must:
+1. Build the project for production (ng build --prod)
+2. Navigate to dist/service-workers (cd dist/service-workers)
+3. Run the http server (http-server -p 8081) "you can run it on any port"
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.2.2.
 
 ## Development server
